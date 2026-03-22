@@ -258,10 +258,10 @@ Then connect to [render.com](https://render.com) and deploy as a Web Service.
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Mohith Chandra Gugulothu**
+[linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohith-chandra-gugulothu)
+[github.com/MohithChandra07](https://github.com/MohithChandra07)
+- Email: mohithg404@gmail.com
 
 ---
 
