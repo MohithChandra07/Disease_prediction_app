@@ -132,7 +132,7 @@ disease-prediction-app/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/disease-prediction-app.git
+git clone https://github.com/MohithChandra07/Disease_prediction_app.git
 cd disease-prediction-app
 
 # 2. Create a virtual environment
