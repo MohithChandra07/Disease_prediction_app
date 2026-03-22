@@ -259,7 +259,7 @@ Then connect to [render.com](https://render.com) and deploy as a Web Service.
 ## 👤 Author
 
 **Mohith Chandra Gugulothu**
-- Linkdin : [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohith-chandra-gugulothu-a6a037392/)
+- LinkedIn: [linkedin.com/in/mohith-chandra-gugulothu](https://www.linkedin.com/in/mohith-chandra-gugulothu-a6a037392/)
 - Github : [github.com/MohithChandra07](https://github.com/MohithChandra07)
 - Email: mohithg404@gmail.com
 
