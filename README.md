@@ -8,7 +8,7 @@
 
 > A machine learning web application that predicts the likelihood of **Diabetes**, **Heart Disease**, and **Liver Disease** based on patient clinical data — built with scikit-learn and deployed via Streamlit.
 
-**🔗 Live Demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+**🔗 Live Demo:** [diseasepredictionapp.streamlit.app](https://diseasepredictionapp-jwmfu2jwpubtft3xsqovtr.streamlit.app)
 
 ---
 
