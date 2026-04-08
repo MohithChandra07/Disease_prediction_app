@@ -271,7 +271,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for the datasets
 - [Kaggle](https://www.kaggle.com/) for the Pima Indians Diabetes dataset
